@@ -6,21 +6,24 @@ title: Stefan Dvoretskii
 superuser: true
 
 # Role/position/tagline
-role: M. Sc. Neuroengineering student at the Technical University of Munich
+role: M. Sc. Neuroengineering student, Technical University of Munich
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Technical University of Munich
-  url: https://tum.de/
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in brain information processing and artificial intelligence. I have solid experience working on Software Development and Data Science spheres. 
+bio: Researcher and developer interested in Artificial Intelligence and Dynamic Systems.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Information Theory
+- Dynamic Systems
+- Whole-brain recordings
+- EEG
+- Basketball
+- Violin
+- Cycling
 
 # Education to show in About widget
 education:
@@ -48,7 +51,7 @@ social:
   link: https://twitter.com/StefanDvoretsk1
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=w0uWvGYAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/stefanches7
@@ -71,5 +74,3 @@ highlight_name: false
 ---
 
 I am passionate about the ability to record human brain activity and use this signal to control machines, as well as understanding how brains convey information. Furthermore, I find it interesting how intelligence can arise in computational paradigms from a set of predefined (simple) rules. I am passionate about collecting and processing data which leads to new insights and optimizations.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
