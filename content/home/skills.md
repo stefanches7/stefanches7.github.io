@@ -17,13 +17,39 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
+  icon: function
+  icon_pack: fas
+  name: Math
+- description: 
+  icon: database
+  icon_pack: fas
+  name: Data Science
+- description: 
+  icon: brain
+  icon_pack: fas
+  name: ML/AI
+- description: 
+  icon: clinic-medical
+  icon_pack: fas
+  name: Life Sciences
+- description: 
+  icon: desktop
+  icon_pack: fas
+  name: Software development
+- description: Advanced
   icon: r-project
   icon_pack: fab
   name: R
-- description: 
+- description: Advanced
   icon: chart-line
   icon_pack: fas
   name: Statistics
+- description: Advanced
+  icon: python
+  icon_pack: fab
+  name: Python
+
+
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
