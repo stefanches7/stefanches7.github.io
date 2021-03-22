@@ -12,7 +12,7 @@ role: M. Sc. Neuroengineering student, Technical University of Munich
 organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researcher and developer interested in Artificial Intelligence and Dynamic Systems.
+bio: Researcher interested in Artificial Intelligence and Dynamic Systems.
 
 # Interests to show in About widget
 interests: []
@@ -39,6 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/StefanDvoretsk1
@@ -72,4 +75,4 @@ email: ""
 highlight_name: false
 ---
 
-I am passionate about the ability to record human brain activity and use this signal to control machines, as well as understanding how brains convey information. Furthermore, I find it interesting how intelligence can arise in computational paradigms from a set of predefined (simple) rules. I am passionate about collecting and processing data which leads to new insights and optimizations.
+I am passionate about technological developments of humanity on the cutting edge. Having work experience in academia, industry and tech I have seen processes of Software Development, Big Data operations and adjacent to them from many sides. In addition to the "technical" side of my skills I try to generalize my observations in my work and life, the ultimum of it being my scientific interests in Human Brain information processing, Machine Learning and Dynamic Systems Modelling. If you are interested in collaboration, do not hesitate to use contact forms provided under my picture.
