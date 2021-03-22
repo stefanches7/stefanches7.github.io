@@ -15,19 +15,11 @@ organizations: []
 bio: Researcher and developer interested in Artificial Intelligence and Dynamic Systems.
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Information Theory
-- Dynamic Systems
-- Whole-brain recordings
-- EEG
-- Basketball
-- Violin
-- Cycling
+interests: []
 
 # Education to show in About widget
-education:
-  courses:
+education: []
+#  courses:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
@@ -43,9 +35,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/StefanDvoretsk1
