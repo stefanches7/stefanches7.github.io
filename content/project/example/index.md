@@ -1,12 +1,12 @@
 ---
-title: Example Project
+title: OpenMentalizing: leveraging neurological Big Data
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://brainhack.org/global2020/project/project_128/"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/StefanDvoretsk1
 url_code: ""
 url_pdf: ""
 url_slides: ""
