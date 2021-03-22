@@ -23,7 +23,7 @@ content:
       id: mknkwjzj
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
   
 design:
   columns: '2'
