@@ -1,6 +1,6 @@
 ---
 title: "OpenMentalizing: leveraging neurological Big Data"
-summary: An example of using the in-built project page.
+summary: A project aiming to utilize massive clinical data for targeted treatment.
 tags:
 - Machine Learning
 - fMRI
