@@ -18,17 +18,21 @@ bio: Researcher and developer interested in Artificial Intelligence and Dynamic 
 interests: []
 
 # Education to show in About widget
-education: []
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: M. Sc. Neuroengineering
+    institution: TU Munich
+    year: []
+  - course: B. Sc. in Computational Biology
+    institution: TU Munich / LMU
+    year: 2020
+  - course: Study colledge, Tech course
+    institution: TU Berlin
+    year: 2017
+  - course: Grammar school
+    institution: Classical Gymnasium #610 St. Petersburg
+    year: 2016
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,15 +42,21 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/StefanDvoretsk1
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=w0uWvGYAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/stefanches7
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/stefan-dvoretskii-03b183131/
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=w0uWvGYAAAAJ
+- icon: fa-researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Stefan-Dvoretskii
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-7769-0167
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
