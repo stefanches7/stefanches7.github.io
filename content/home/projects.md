@@ -28,17 +28,17 @@ content:
   - name: All
     tag: '*'
   - name: Machine Learning
-    tag: Machine Learning
+    tag: Machine Learning, Data Science, Neural Network, Simulation, Cognition
   - name: Scientific
-    tag: Scientific
+    tag: Machine Learning, Data Science, Neural Network, Simulation, Cognition
   - name: Web
-    tag: Web
-  - name: Data Science
-    tag: Data Science
-  - name: IoT
-    tag: IoT
-  - name: Life Sciences
-    tag: Life Sciences
+    tag: Web, GUI, REST
+#  - name: Data Science
+#    tag: Data Science
+#  - name: IoT
+#    tag: IoT
+#  - name: Life Sciences
+#    tag: Life Sciences
     
 
 design:
