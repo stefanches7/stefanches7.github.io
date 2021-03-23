@@ -29,7 +29,7 @@ education:
   - course: Study colledge, Tech course
     institution: TU Berlin
     year: 2017
-  - course: Grammar school \#610
+  - course: Grammar school №610
     institution: Saint Petersburg
     year: 2016
     
