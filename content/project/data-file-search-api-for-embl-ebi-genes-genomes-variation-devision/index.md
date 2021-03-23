@@ -19,7 +19,7 @@ tags:
   - MySQL
 external_link: https://summerofcode.withgoogle.com/archive/2017/projects/4741862938116096/
 image:
-  filename: webui-looks-ftpdata.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
