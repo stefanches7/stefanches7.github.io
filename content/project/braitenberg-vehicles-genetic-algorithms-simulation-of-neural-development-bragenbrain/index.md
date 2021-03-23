@@ -18,7 +18,7 @@ tags:
   - Information Theory
 external_link: https://summerofcode.withgoogle.com/archive/2019/projects/6233682145181696/
 image:
-  filename: simulation_screen_bragen_brain.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
