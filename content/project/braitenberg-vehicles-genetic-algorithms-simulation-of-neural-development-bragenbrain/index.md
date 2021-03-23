@@ -1,7 +1,7 @@
 ---
 title: Braitenberg Vehicles Genetic Algorithms Simulation of Neural Development
   (BraGenBrain)
-subtitle: Simulation of Neural Network development in Dynamic Population simulation
+summary: Simulation of Neural Network development in Dynamic Population simulation
 date: 2021-03-23T10:57:00.571Z
 draft: false
 featured: false

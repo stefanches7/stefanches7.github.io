@@ -1,6 +1,6 @@
 ---
 title: Data file search API for EMBL-EBI Genes,Genomes & Variation devision
-subtitle: REST API with a Database on Spring/Boot for massive FTP crawling
+summary: REST API with a Database on Spring/Boot for massive FTP crawling
 date: 2021-03-23T11:28:26.143Z
 draft: false
 featured: false
