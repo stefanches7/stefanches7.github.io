@@ -1,20 +1,19 @@
 ---
-title: DeepVisual
-summary: EEG based reconstruction/classification of observed pictures
+title: wBuild
+summary: Automatic build tool for R (Markdown) reports
 date: 2021-04-02T13:13:21.551Z
 draft: false
 featured: false
 tags:
-  - Machine Learning
-  - EEG
-  - Classification
+  - R
+  - Data Visualization
+  - Pipeline
   - Life Sciences
   - Healthcare
-  - Image Reconstruction
-  - Deep Learning
-external_link: https://osf.io/hdeqv/
+  - Python
+external_link: https://wbuild.readthedocs.io/en/latest/index.html
 image:
-  filename: featured.jpg
+  filename: wbuild.png
   focal_point: Smart
   preview_only: false
 ---
