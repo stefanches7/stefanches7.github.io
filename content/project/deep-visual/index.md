@@ -12,7 +12,7 @@ tags:
   - Healthcare
   - Image Reconstruction
   - Deep Learning
-external_link: https://github.com/stefanches7/DeepVisual
+external_link: https://osf.io/hdeqv/
 image:
   filename: featured.jpg
   focal_point: Smart
