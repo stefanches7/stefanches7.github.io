@@ -1,17 +1,16 @@
 ---
-title: GTExGenDEr
-summary: GTEx Gene Differential Expression compaRison between self-reported genders
+title: CleTimer
+summary: Linear model of cleavage time based on intron sequence
 date: 2021-04-02T11:28:26.143Z
 draft: false
 featured: false
 tags:
-  - R
-  - Differential Expression
-  - GTEx
+  - Python
+  - Data Science
   - Omics
   - Life Sciences
   - Healthcare
-external_link: https://osf.io/htfp5/
+external_link: https://github.com/kipoi/models/tree/master/CleTimer
 image:
   filename: featured.png
   focal_point: Smart
