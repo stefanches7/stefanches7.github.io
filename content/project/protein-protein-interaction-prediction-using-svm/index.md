@@ -1,6 +1,6 @@
 ---
 title: Protein-protein interaction prediction using SVM
-subtitle: prot2vec powered embedding of proteins and ML, seminar project
+summary: Latent space embedding of protein sequences and classification
 date: 2021-03-23T13:13:21.551Z
 draft: false
 featured: false
@@ -9,7 +9,7 @@ tags:
   - SVM
   - Classification
   - Life Sciences
-external_link: https://www.upwork.com/o/profiles/users/~01bf53067d2e0c84ba/?p=1282269496573087744
+external_link: https://github.com/stefanches7/Protein-Protein-Interaction
 image:
   filename: featured.jpg
   focal_point: Smart
