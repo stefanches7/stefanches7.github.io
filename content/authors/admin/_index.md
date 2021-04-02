@@ -15,16 +15,24 @@ organizations: []
 bio: Researcher interested in Artificial Intelligence and Dynamic Systems.
 
 # Interests to show in About widget
-interests: []
+interests: 
+- Brain-computer Interfaces
+- Networks and Dynamical Systems
+- Riding a bicycle
+- Art
+- Philosophy
+- Basketball
+- Hip-Hop
+- Classical music
 
 # Education to show in About widget
 education:
   courses:
   - course: M. Sc. Neuroengineering
-    institution: TU Munich
-    year: []
+    institution: TUM
+    year: currently studying
   - course: B. Sc. in Computational Biology
-    institution: TU Munich / LMU
+    institution: TUM / LMU
     year: 2020
   - course: Study colledge, Tech course
     institution: TU Berlin
