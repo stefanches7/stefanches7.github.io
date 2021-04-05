@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 60
 
 title: Skills
 subtitle:
@@ -16,10 +16,6 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
-  icon: square-root-alt
-  icon_pack: fas
-  name: Math
 - description: 
   icon: database
   icon_pack: fas
@@ -37,10 +33,6 @@ feature:
   icon_pack: fas
   name: Software development
 - description: Advanced
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: Advanced
   icon: chart-line
   icon_pack: fas
   name: Statistics
@@ -48,6 +40,11 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+- description: Beginner-Medium-Advanced-Expert
+  icon: thermometer-three-quarters
+  icon_pack: fas
+  name: Skills levels
+
 
 
   
