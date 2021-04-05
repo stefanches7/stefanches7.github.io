@@ -10,6 +10,7 @@ tags:
   - Omics
   - Life Sciences
   - Healthcare
+  - Computational Biology
 external_link: https://github.com/kipoi/models/tree/master/CleTimer
 image:
   filename: featured.png

@@ -11,6 +11,7 @@ tags:
   - Omics
   - Life Sciences
   - Healthcare
+  - Computational Biology
 external_link: https://osf.io/htfp5/
 image:
   filename: featured.png

@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
 title: Projects
 subtitle: ''
@@ -29,17 +29,18 @@ content:
     tag: '*'
   - name: Machine Learning
     tag: Machine Learning, Data Science, Neural Network, Simulation, Cognition
-  - name: Scientific
-    tag: Machine Learning, Data Science, Neural Network, Simulation, Cognition
   - name: Web
     tag: Web, GUI, REST
-#  - name: Data Science
-#    tag: Data Science
-#  - name: IoT
-#    tag: IoT
-#  - name: Life Sciences
-#    tag: Life Sciences
-    
+  - name: Data Science
+    tag: Data Science
+  - name: IoT
+    tag: IoT
+  - name: Life Sciences
+    tag: Life Sciences
+  - name: Healthcare
+    tag: Healthcare, Omics
+  - name: Computational Biology
+    tag: Computational Biology, Omics    
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
