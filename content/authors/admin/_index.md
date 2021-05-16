@@ -9,7 +9,9 @@ superuser: true
 role: M. Sc. Neuroengineering student, Technical University of Munich
 
 # Organizations/Affiliations to show in About widget
-organizations: []
+organizations: 
+- organization: Mentalab
+  year: 2021-ongoing
 
 # Short bio (displayed in user profile at end of posts)
 bio: Researcher interested in Artificial Intelligence and Dynamic Systems.
