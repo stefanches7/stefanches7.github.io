@@ -8,7 +8,7 @@ summary: Team with different backgrounds is a really annoying thing that however
 draft: false
 featured: false
 image:
-  filename: https://thumbs.dreamstime.com/b/female-hand-holding-lamp-abstract-chalkboard-background-business-hologram-global-innovation-concept-global-innovation-99524653.jpg
+  filename: featured.jpg
   focal_point: Center
   preview_only: false
 ---
