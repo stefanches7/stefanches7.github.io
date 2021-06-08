@@ -10,22 +10,26 @@ role: M. Sc. Neuroengineering student, Technical University of Munich
 
 # Organizations/Affiliations to show in About widget
 organizations: 
-- organization: Mentalab
-  year: 2021-ongoing
+- name: TUM-MS Neuroengineering
+  url: https://www.ei.tum.de/en/msne/home/
+- name: Akademischer Gesangverein München
+  url: https://www.agv-muenchen.de/
+- name: Mentalab
+  url: https://mentalab.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Researcher interested in Artificial Intelligence and Dynamic Systems.
 
 # Interests to show in About widget
 interests: 
-- Brain-computer Interfaces
-- Networks and Dynamical Systems
+- Brain activity
+- Neurorecording
+- Brain-computer interfaces
 - Riding a bicycle
 - Art
 - Philosophy
 - Basketball
-- Hip-Hop
-- Classical music
+- Music: Golden Age Hip-Hop, Jazz, Classical
 
 # Education to show in About widget
 education:
