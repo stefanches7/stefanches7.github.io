@@ -14,8 +14,6 @@ organizations:
   url: https://www.ei.tum.de/en/msne/home/
 - name: Akademischer Gesangverein München
   url: https://www.agv-muenchen.de/
-- name: Mentalab
-  url: https://mentalab.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Researcher interested in Artificial Intelligence and Dynamic Systems.
@@ -29,7 +27,7 @@ interests:
 - Art
 - Philosophy
 - Basketball
-- Music: Golden Age Hip-Hop, Jazz, Classical
+- Music Golden Age Hip-Hop, Jazz, Classical
 
 # Education to show in About widget
 education:
