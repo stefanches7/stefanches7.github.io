@@ -20,34 +20,30 @@ feature:
   icon: database
   icon_pack: fas
   name: Data Science
-- description: Advanced
+- description: 
   icon: brain
   icon_pack: fas
   name: ML/AI
-- description: Advanced
+- description: 
   icon: clinic-medical
   icon_pack: fas
   name: Life Sciences
-- description: Advanced
+- description: 
   icon: desktop
   icon_pack: fas
   name: Software development
-- description: Advanced
+- description:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: Advanced
+- description: 
   icon: python
   icon_pack: fab
   name: Python
-- description: Medium
+- description: 
   icon: hat-wizard
   icon_pack: fas
   name: Brain-Computer Interfaces
-- description: Beginner-Medium-Advanced-Expert
-  icon: thermometer-three-quarters
-  icon_pack: fas
-  name: Skills levels
 
 
 
