@@ -19,15 +19,15 @@ feature:
 - description: 
   icon: database
   icon_pack: fas
-  name: Data Science
+  name: AI-ready Data
 - description: 
   icon: brain
   icon_pack: fas
-  name: ML/AI
+  name: Artificial Intelligence
 - description: 
   icon: clinic-medical
   icon_pack: fas
-  name: Life Sciences
+  name: Life Sciences and Healthcare Data
 - description: 
   icon: desktop
   icon_pack: fas
@@ -35,15 +35,11 @@ feature:
 - description:
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Quantitative Analysis
 - description: 
   icon: python
   icon_pack: fab
   name: Python
-- description: 
-  icon: hat-wizard
-  icon_pack: fas
-  name: Brain-Computer Interfaces
 
 
 
