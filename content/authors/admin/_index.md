@@ -1,12 +1,14 @@
 ---
 title: Stefan Dvoretskii
-role: M. Sc. Neuroengineering student, Technical University of Munich
+role: AI Metadata Scientist, German Cancer Research Center (DKFZ) / Helmholtz Metadata Collaboration
 avatar_filename: avatar.jpg
-bio: Researcher interested in Artificial Intelligence and Dynamic Systems.
+bio: Researcher and Engineer in Quantitative Bio- and Neurotechnology
 interests:
-  - Brain activity
-  - Neurorecording
-  - Brain-computer interfaces
+  - AI-ready Data
+  - Dynamic Systems
+  - Foundation Models
+  - Organoid Intelligence
+  - Large Language Models in Healthcare
   - Riding a bicycle
   - Art
   - Philosophy
@@ -41,9 +43,9 @@ organizations:
     url: https://www.agv-muenchen.de/
 education:
   courses:
-    - course: M. Sc. Neuroengineering
+    - course: Elite M. Sc. Neuroengineering (with honours)
       institution: TUM
-      year: currently studying
+      year: 2023
     - course: B. Sc. in Computational Biology
       institution: TUM / LMU
       year: 2020
@@ -57,6 +59,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am interested in life and brain structure and function, and in the ways in which those can be described mathematically. To this extend, I have accomplished projects involving Machine Learning, Cognitive Simulations, Gene Expression, Signal Processing and Dynamic Systems Analysis. This practical experience is backed by the profound theoretical training in Signal Processing, Neuro-inspired Systems Engineering and Neurology I have received during the Master of Science in Neuroengineering. Apart from that, I try to come up with new ideas in the Neural Information Processing/Neural Signall Processing field and be open to the new developments of Science and Technology in the branch. If you are interested in collaboration, do not hesitate to use contact forms provided under the avatar.
+I am contributing to the Life Science and Healthcare technology and research with ideas, code and initiatives.
+I have a background in Bioinformatics and Neuroengineering, and currently work on driving AI-readiness of data forward.
+I want to work on Organoid Intelligence, and I am passionate to walk the hard way of translating the basic academic research into businesses and applications.
 
-In my free time I enjoy meeting new people and doing hobbies.
+In my free time I enjoy meeting new people and sailing, playing basketball and doing Taekwondo.
